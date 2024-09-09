@@ -1,0 +1,1 @@
+3b4f0eb9-429a-4364-ab18-f66982b343a3 autoenable=true bucket=cr-rsch-datalad-test datacenter=us-west-2 encryption=none fileprefix=github-s3-datalad-test/ host=s3.amazonaws.com name=public-s3 partsize=1GiB port=80 publicurl=https://cr-rsch-datalad-test.s3-us-west-2.amazonaws.com storageclass=STANDARD type=S3 timestamp=1725890864.849450273s
